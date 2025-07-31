@@ -24,7 +24,7 @@ middle要素への装飾
     background-color: #ffd9df ;
 }
 #middle-child01 {
-    position: absolute ;
+    position: absolute;
     top: 100px;
     left: 100px;
     width: 200px;
